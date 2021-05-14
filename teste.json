@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "nome": "Fonte Dona Leopoldina",
+        "url": "",
+        "desc": "A Fonte Dona Leopoldina foi captada em 1891. O projeto arquitetonico original e datado de 1912 com carimbo de 'Societe Anoyme des DAngleur''Tilleur - Belgique' e esta arquivado no Instituto Estadual do Patrimônio Historico e Artistico de Minas Gerais. O predio em que se encontra a fonte possui cupula erguida por pilastras. Tanto o teto quanto as pilastras sao decorados com pinturas. Arcos de ferro ligam as pilastras ao centro. Por ser todo aberto, tem-se acesso ao interior por qualquer um dos seis lados, descendo-se sete degraus. A Fonte Dona Leopoldina esta protegida por uma grade de ferro. O chao e de ceramica antiga e emestilo greco-romano. Padroes decorativos pintados ocorrem na parte inferior da cobertura do pavilhao, podem-se notar frisos ornamentais e de arabescos de folhas e flores estilizadas e entrelacadas em ferro."
+    },
+    {
+        "id": 1,
+        "nome": "Fonte Princesa Isabel",
+        "url": "",
+        "desc": "Fonte ao lado do córrego conhecido como Bengo, a segunda mais próxima da portaria principal."
+    },
+    {
+        "id": 2,
+        "nome": "Fonte Beleza",
+        "url": "",
+        "desc": "Primeira fonte em frente ao balneário e ao lado da fonte duque de Saxe."
+    },
+    {
+        "id": 3,
+        "nome": "Fonte Duque de Saxe",
+        "url": "",
+        "desc": "Ao lado da fonte Beleza e em frente ao Balneário."
+    },
+    {
+        "id": 4,
+        "nome": "Fonte Dom Pedro",
+        "url": "",
+        "desc": "Fonte ao lado do balneário e nos fundos da construção da antiga Super Água."
+    },
+    {
+        "id": 5,
+        "nome": "Fonte Viotti",
+        "url": "",
+        "desc": "Logo ao lado da Fonte Dom Pedro está entre a construção da antiga Super água e as piscinas de água mineral."
+    },
+    {
+        "id": 6,
+        "nome": "Fonte Venancio",
+        "url": "",
+        "desc": "Fonte próximo ao geiser, com propriedades em sua água que fazem o controle da pressão arterial."
+    },
+    {
+        "id": 7,
+        "nome": "Fonte Mayrink I, II e III",
+        "url": "",
+        "desc": "Fonte próxima ao lago e da Medalha Milagrosa, com três tipos distintos de água mineral para diversos tipos de tratamentos"
+    },
+    {
+        "id": 8,
+        "nome": "Fonte Externa",
+        "url": "",
+        "desc": "Fonte externa desviada da Fonte Viotti."
+    }
+]
