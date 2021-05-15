@@ -46,11 +46,6 @@
         "nome": "Fonte Mayrink I, II e III",
         "url": "",
         "desc": "Fonte próxima ao lago e da Medalha Milagrosa, com três tipos distintos de água mineral para diversos tipos de tratamentos"
-    },
-    {
-        "id": 8,
-        "nome": "Fonte Externa",
-        "url": "",
-        "desc": "Fonte externa desviada da Fonte Viotti."
     }
+    
 ]
