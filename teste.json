@@ -21,25 +21,25 @@
         "id": 3,
         "nome": "Fonte Duque de Saxe",
         "url": "",
-        "desc": "Ao lado da fonte Beleza e em frente ao Balneário."
+        "desc": "Foi captada em 1891 sob a administração do Conselheiro Francisco de Paula Mayrink. De todos os quiosques metálicos do parque, é o que apresenta maior sobriedade de ornamentação e cores. Seu teto é todo pintado de rosa e é sustentado por pilastras. O piso é de cerâmica. As escadas que dão acesso à fonte possuem nove degraus cada uma e são cercadas por corrimãos de grade de ferro. Em volta da fonte, encontram-se azulejos decorados."
     },
     {
         "id": 4,
         "nome": "Fonte Dom Pedro",
         "url": "",
-        "desc": "Fonte ao lado do balneário e nos fundos da construção da antiga Super Água."
+        "desc": "É a fonte mais antiga e simbólica do Parque das Águas, possui interessante construção em estilo greco-romano, sendo um dos cartões-postais da cidade de Caxambu. A captação ocorreu em 1884, e o pavilhão atual, de inspiração neoclássica, foi construído no início dos anos 1960. O prédio em que ela se encontra possui cúpula apoiada por pilastras grossas, não tendo paredes. Em seu interior, encontra-se uma réplica da coroa que pertenceu a Dom Pedro.\nA Fonte Dom Pedro, em Caxambu/MG, está em uma pilastra de mármore encimada pela Coroa Imperial. A água sai de uma torneira de aço inox. O acesso à fonte se dá por escada. De teor radioativo e carbônico e altamente gasosa, é indicada como água de mesa por sua natureza digestiva."
     },
     {
         "id": 5,
         "nome": "Fonte Viotti",
         "url": "",
-        "desc": "Logo ao lado da Fonte Dom Pedro está entre a construção da antiga Super água e as piscinas de água mineral."
+        "desc": "São dois pavilhões distintos, junto ao portão de acesso à fábrica de água mineral (Viotti Menor) e próximo à piscina de águas minerais (Viotti). O antigo pavilhão acompanhava o estilo arquitetônico das outras fontes projetadas na Bélgica. A Fonte Viotti foi captada em 1885, com trabalhos posteriores de recaptação em 1913.\nAtualmente, existe uma construção simples, de planta retangular, constituída por uma cobertura em quatro águas de telhas cerâmicas com beiral, apoiada por uma parede cega e dois pilares laterais revestidos com pedra e vazada nas outras fachadas. O prédio dessa fonte é um dos mais âmplos, possui duas paredes revestidas com pedras e as outras com azulejos. O acesso às fontes é por uma escada de onze degraus, que é envolta por corrimão de ferro."
     },
     {
         "id": 6,
         "nome": "Fonte Venâncio",
         "url": "",
-        "desc": "Fonte próximo ao geiser, com propriedades em sua água que fazem o controle da pressão arterial."
+        "desc": "A Fonte Venâncio foi captada no início de 1935 e término de 1939. Construído em estilo romântico, bastante usado nos anos de 1940, seu quiosque é mais fechado que os quiosques das outras fontes. A planta é semicircular e a fachada frontal apresenta escadaria de acesso à entrada em arco e cobertura em quatro águas. O guarda-corpo de alvenaria que circunda o local da fonte possui elementos vazados em meias-luas. O acabamento é em reboco pintado e cerâmicas vermelhas (piso)."
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
     },
      {
         "id": 10,
-        "nome": "Fonte Dr. Viotti Externa",
+        "nome": "Fonte Dr. Viotti Menor (externa)",
         "url": "",
         "desc": "Localizada na Avenida Camilo Soares, possui águas vindas da fonte Viotti. Está em local de fácil acesso e a coleta de água no local é gratuita."
     }
