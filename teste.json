@@ -19,16 +19,16 @@
         "id": 2,
         "nome": "Fonte Beleza",
         "url": "https://i.imgur.com/dgMJ91R.jpg?1",
-        "desc": "A Fonte Beleza era conhecida anteriormente como Fonte Intermitente. Foi perfurada pelo Dr. Viotti em 1885. Como as fotes Duque de Saxe e Dona Leopoldina, seu estilo obedeceu ao empregado na época para as fontes francesas, e o projeto de 1913 é de origem belga. Trata-se de um pequeno prédio, possuindo teto acupulado pintado, erguido por finas pilastras de ferro. O acesso à fonte, que tem à sua volta azulejos decorados, dá-se por uma escada que possui nove degraus e corrimão de ferro.",
-        "propriedades": "",
+        "desc": "A Fonte Beleza era conhecida anteriormente como Fonte Intermitente. Foi perfurada pelo Dr. Viotti em 1885. Como as fotes Duque de Saxe e Dona Leopoldina, seu estilo obedeceu ao empregado na época para as fontes francesas, e o projeto de 1913 é de origem belga. Trata-se de um pequeno prédio, possuindo teto acupulado pintado, erguido por finas pilastras de ferro. O acesso à fonte, que tem à sua volta azulejos decorados, dá-se por uma escada que possui nove degraus e corrimão de ferro. A Fonte Beleza, quando voltou a jorrar após algum tempo seca, causou grande surpresa e recebeu o então nome de Beleza, pela admiração que causava.",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, alcalino-terrosa magnesiana, fluoretada, litinada, ferruginosa; carbogasosa e hipotermal na fonte. A sua água multimineralizada equilibra o complexo eletrolítico do meio humoral do organismo. Age sobre a vida celular e sobre órgãos, estimulando e tonificando o organismo. Muito rica em minerais e fracamente radioativa, potencializada pelo gás carbônico, revigora a pele. Rica em magnésio, cálcio e flúor é indicada para auxiliar a formação dos ossos e da dentição. O magnésio atua também no sistema nervoso como calmante, combatendo o estresse. O alto teor de ferro auxilia no tratamento do aparelho digestivo.\nNÃO É ADEQUADA PARA LACTANTES E CRIANÇAS COM ATÉ 7 ANOS DE IDADE.\nSEU CONSUMO DIÁRIO NÃO É RECOMENDÁVEL: CONTÉM FLUORETO ACIMA DE 2mg/L.",
         "icon": "https://i.imgur.com/dgMJ91R.jpg?1"
     },
     {
         "id": 3,
         "nome": "Fonte Duque de Saxe",
         "url": "https://i.imgur.com/m9bolgY.png",
-        "desc": "Foi captada em 1891 sob a administração do Conselheiro Francisco de Paula Mayrink. De todos os quiosques metálicos do parque, é o que apresenta maior sobriedade de ornamentação e cores. Seu teto é todo pintado de rosa e é sustentado por pilastras. O piso é de cerâmica. As escadas que dão acesso à fonte possuem nove degraus cada uma e são cercadas por corrimãos de grade de ferro. Em volta da fonte, encontram-se azulejos decorados.",
-        "propriedades": "",
+        "desc": "Foi captada em 1891 sob a administração do Conselheiro Francisco de Paula Mayrink. De todos os quiosques metálicos do parque, é o que apresenta maior sobriedade de ornamentação e cores. Seu teto é todo pintado de rosa e é sustentado por pilastras. O piso é de cerâmica. As escadas que dão acesso à fonte possuem nove degraus cada uma e são cercadas por corrimãos de grade de ferro. Em volta da fonte, encontram-se azulejos decorados. O nome foi dado em homenagem ao marido de D. Leopoldina (genro do Imperador).",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, fluoretada, litinada; carbogasosa na fonte. Esta água contém enxofre dissolvido em pequenas quantidades, possuindo efeito medicinal comprovado. Ação colagoga, atuando no fígado e vesícula biliar, aumentando a produção da bile e a contração da vesícula; fluidifica a bile e dissolve cálculos de vias biliares; combate a estase intestinal, com efeito peristáltico e laxativo. Antissepsia e desintoxica o aparelho digestivo, melhorando a defesa do organismo. O gás sulfídrico disponível no inalador da fonte é indicado para o sistema respiratório em casos alérgicos e suas complicações.\nCONTÉM FLUORETO.",
         "icon": "https://i.imgur.com/m9bolgY.png"
     },
     {
