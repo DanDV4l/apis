@@ -55,8 +55,16 @@
         "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, alcalino-terrosa magnesiana, fluoretada, litinada; carbogasosa e hipotermal na fonte. Sua ação radioativa em conjunto com sua riqueza de magnésio a transforma em bom medicamento para o sistema cardiovascular e nervoso. O magnésio atua como miorelaxante neuromuscular, calmante do sistema nervoso e melhora transtornos do coração. A radioatividade (radônio) melhora o tônus do miocárdio e vascular graças à benéfica influência sobre a fibra muscular. A radioatividade faz cessar o espasmo vascular dos hipertensos, abaixando a pressão arterial.\n\nNÃO ADEQUADA PARA LACTENTES E CRIANÇAS COM ATÉ 7 ANOS DE IDADE.\nO CONSUMO DIÁRIO NÃO É RECOMENDÁVEL: CONTÉM FLUORETO ACIMA DE 2mg/L.",
         "icon": "https://i.imgur.com/jgXBDSy.jpg?1"
     },
-    {
+       {
         "id": 7,
+        "nome": "Fonte Ernestina Guedes",
+        "url": "https://i.imgur.com/Azqm6jJ.jpg?1",
+        "desc": "A Fonte Ernestina Guedes foi captada em 1950. Seu prédio, de construção simples, possui laje apoiada por pilastras redondas, chão de ardósia e três bancos de espera. A fonte é localizada um pouco abaixo do nível da rua e está em um monumento estrelado onde jorra a água. O acesso se dá por duas escadas que possuem dezessete degraus e corrimão de grade.",
+        "propriedades": "",
+        "icon": "https://i.imgur.com/Azqm6jJ.jpg?1"
+    },
+    {
+        "id": 8,
         "nome": "Fonte Mayrink I",
         "url": "https://i.imgur.com/JSwEkqz.jpg?1",
         "desc": "Fonte próxima ao lago e da Medalha Milagrosa, com três tipos distintos de água mineral para diversos tipos de tratamentos",
@@ -64,27 +72,19 @@
         "icon": "https://i.imgur.com/JSwEkqz.jpg?1"
     },
       {
-        "id": 8,
+        "id": 9,
         "nome": "Fonte Mayrink II",
         "url": "https://i.imgur.com/JSwEkqz.jpg?1",
         "desc": "Fonte próxima ao lago e da Medalha Milagrosa, com três tipos distintos de água mineral para diversos tipos de tratamentos",
         "propriedades": "",
         "icon": "https://i.imgur.com/JSwEkqz.jpg?1"
     },  {
-        "id": 9,
+        "id": 10,
         "nome": "Fonte Mayrink III",
         "url": "https://i.imgur.com/JSwEkqz.jpg?1",
         "desc": "Fonte próxima ao lago e da Medalha Milagrosa, com três tipos distintos de água mineral para diversos tipos de tratamentos",
         "propriedades": "",
         "icon": "https://i.imgur.com/JSwEkqz.jpg?11"
-    },
-     {
-        "id": 10,
-        "nome": "Fonte Ernestina Guedes",
-        "url": "https://i.imgur.com/Azqm6jJ.jpg?1",
-        "desc": "A Fonte Ernestina Guedes foi captada em 1950. Seu prédio, de construção simples, possui laje apoiada por pilastras redondas, chão de ardósia e três bancos de espera. A fonte é localizada um pouco abaixo do nível da rua e está em um monumento estrelado onde jorra a água. O acesso se dá por duas escadas que possuem dezessete degraus e corrimão de grade.",
-        "propriedades": "",
-        "icon": "https://i.imgur.com/Azqm6jJ.jpg?1"
     },
      {
         "id": 11,
