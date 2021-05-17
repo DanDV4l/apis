@@ -74,24 +74,24 @@
       {
         "id": 9,
         "nome": "Fonte Mayrink II",
-        "url": "https://i.imgur.com/JSwEkqz.jpg?1",
+        "url": "https://i.imgur.com/UgFvK8Z.jpg",
         "desc": "As fontes Mayrink estão abrigadas em um prédio que é protegido por uma balaustrada e possui três janelas em arco. As paredes, no alto, têm decoração de volutas. Há uma sala de espera para 30 pessoas, onde o piso é de azulejos antigos e decorados. O chafariz, cujo acesso é feito por escadas e vias laterais, possui desenhos de volutas e conchas. A água mineral é carbogasosa e radioativa e é indicada para a garganta e como colírio. A escada que dá acesso às duas fontes possui 11 degraus e balaustrada de ferro. As fontes saem de um cano e caem sobre uma pequena pia quadrada. Essas fontes foram captadas na última década do século XIX. O pavilhão quadrado baseia-se na arquitetura do Arco do Triunfo em Paris. Seu nome é uma homenagem a Francisco de Paula Mayrink que adquiriu a Empresa das Águas de Caxambu em 24 de maio de 1890. Deputado de grande influência, foi um dos responsáveis pela chegada da estrada de ferro a Caxambu e trabalhou pela emancipação político-administrativa da cidade.",
         "propriedades": "Água mineral fluoretada e litinada; radioativa, carbogasosa e hipotermal na fonte. As águas da Fonte Mayrink II são indicadas para tratamento dos olhos (como colírio).",
-        "icon": "https://i.imgur.com/JSwEkqz.jpg?1"
+        "icon": "https://i.imgur.com/UgFvK8Z.jpg"
     },  {
         "id": 10,
         "nome": "Fonte Mayrink III",
         "url": "https://i.imgur.com/JSwEkqz.jpg?1",
         "desc": "As fontes Mayrink estão abrigadas em um prédio que é protegido por uma balaustrada e possui três janelas em arco. As paredes, no alto, têm decoração de volutas. Há uma sala de espera para 30 pessoas, onde o piso é de azulejos antigos e decorados. O chafariz, cujo acesso é feito por escadas e vias laterais, possui desenhos de volutas e conchas. A água mineral é carbogasosa e radioativa e é indicada para a garganta e como colírio. A escada que dá acesso às duas fontes possui 11 degraus e balaustrada de ferro. As fontes saem de um cano e caem sobre uma pequena pia quadrada. Essas fontes foram captadas na última década do século XIX. O pavilhão quadrado baseia-se na arquitetura do Arco do Triunfo em Paris. Seu nome é uma homenagem a Francisco de Paula Mayrink que adquiriu a Empresa das Águas de Caxambu em 24 de maio de 1890. Deputado de grande influência, foi um dos responsáveis pela chegada da estrada de ferro a Caxambu e trabalhou pela emancipação político-administrativa da cidade.",
         "propriedades": "Água mineral fluoretada e radioativa na fonte. A Fonte Mayrink III é a única água não gasosa do parque.",
-        "icon": "https://i.imgur.com/JSwEkqz.jpg?11"
+        "icon": "https://i.imgur.com/F4MFeKf.jpg"
     },
      {
         "id": 11,
         "nome": "Fonte Viotti Menor (externa)",
         "url": "https://i.imgur.com/k2TmHts.jpg?1",
-        "desc": "Localizada na Avenida Camilo Soares, possui águas vindas da fonte Viotti. Está em local de fácil acesso e a coleta de água no local é gratuita.",
-        "propriedades": "",
+        "desc": "Fontanário externo para atendimento à população. A água provém da Fonte Viotti, no interior do Parque.",
+        "propriedades": "Água mineral fluoretada e litinada; carbogasosa e radioativa na fonte. Possui efeito diurético e depurativo. Estimula a função renal deficiente. Sua forte radioatividade (radônio) aumenta a diurese e a eliminação de ácido úrico, dissolvendo os cálculos renais e biliares e as concreções artríticas. Normaliza a pressão arterial. Isso porque melhora o tônus do miocárdio e vascular, graças à benéfica influência sobre a fibra muscular. Nos hipertensos, nos quais costuma existir um fator espasmódico, a radioatividade faz cessar o espasmo, o que provoca o abaixamento da pressão arterial.",
         "icon": "https://i.imgur.com/a1FNE0I.png?1"
     }
 ]
