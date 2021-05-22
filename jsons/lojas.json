@@ -1,0 +1,26 @@
+[
+    {
+        "id": "escolaead",
+        "nome": "Escola EAD",
+        "desc": "Plataforma de capacitação e treinamentos.",
+        "logo": "",
+        "categoria": "Educação",
+        "tipo": "Autônomo"
+    },
+    {
+        "id": "arteizumi",
+        "nome": "Arte Izumi",
+        "desc": "Mandalas e placas decorativas",
+        "logo": "",
+        "categoria": "Outros",
+        "tipo": "Autônomo"
+    },
+    {
+        "id": "",
+        "nome": "",
+        "desc": "",
+        "logo": "",
+        "categoria": "",
+        "tipo": ""
+    }
+]
