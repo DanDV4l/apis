@@ -3,7 +3,7 @@
         "id": "escolaead",
         "nome": "Escola EAD",
         "desc": "Plataforma de capacitação e treinamentos.",
-        "logo": "",
+        "logo": "https://i.imgur.com/SIb9WiN.jpg",
         "categoria": "Educação",
         "tipo": "Empresa"
     },
@@ -11,7 +11,7 @@
         "id": "arteizumi",
         "nome": "Arte Izumi",
         "desc": "Mandalas e placas decorativas",
-        "logo": "",
+        "logo": "https://i.imgur.com/rwHDjEL.jpg",
         "categoria": "Outros",
         "tipo": "Autônomo"
     },
@@ -19,7 +19,7 @@
         "id": "sweetwizard",
         "nome": "Sweet Wizard",
         "desc": "A junção de duas coisas mágicas: doces e o mundo de Harry Potter. ⚡️",
-        "logo": "",
+        "logo": "https://i.imgur.com/UVsWA7G.jpg",
         "categoria": "Alimentos",
         "tipo": "Autônomo"
     }
