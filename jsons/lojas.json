@@ -32,11 +32,27 @@
      "tipo":"Empresa"
     },
     {
+     "id": "deliciasgabi",
+     "nome": "Delícias da Gabi",
+     "desc": "Encomendas (35)997166083 @gabrielamonteiro218 @vini_tonton ! Trabalhamos com diversas opções! Aceitamos cartão! Venha conhecer nossas #DELICIAS",
+     "logo": "https://scontent-gru2-1.cdninstagram.com/v/t51.2885-19/s320x320/72323279_560031818081639_5793089426858967040_n.jpg?tp=1&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_ohc=NQxPmlITaXMAX9zmrnG&edm=ABfd0MgBAAAA&ccb=7-4&oh=8ee4c95ddc17ce99f605522725f8320d&oe=60B354FA&_nc_sid=7bff83",
+     "categoria": "Alimentação",
+     "tipo":"Autônomo"
+    },
+    {
       "id": "laridonuts",
      "nome": "LariDonuts",
      "desc": "💕Felicidade em forma de donuts💕",
      "logo":"https://scontent-gru2-1.cdninstagram.com/v/t51.2885-19/s320x320/82529057_685019862345197_7471422573350831010_n.jpg?tp=1&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_ohc=21s4IRYYdrAAX_SBuMF&edm=ABfd0MgBAAAA&ccb=7-4&oh=00f59f40722008e26f16b3941ed69515&oe=60B416F2&_nc_sid=7bff83",
      "categoria": "Alimentação",
-     "tipo":"Empresa"
+     "tipo":"Autônomo"
+    },
+    {
+     "id": "cmontoriatelie",
+     "nome": "Camila Montori Ateliê",
+     "desc": "Um ATELIÊ feito com muito amor, carinho e dedicaçao! ❤\nCostura sob medida, bordados, crochê, tricô e afins!",
+     "logo": "https://scontent-gru2-1.cdninstagram.com/v/t51.2885-19/s320x320/160652570_3993490507380986_1866415420158884814_n.jpg?tp=1&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_ohc=xV367qljrLQAX-k0dIu&edm=ABfd0MgBAAAA&ccb=7-4&oh=0af6527f5a70826c1f7867dfc3881ca8&oe=60B3FFDD&_nc_sid=7bff83",
+     "categoria": "Outros",
+     "tipo": "Autônomo"
     }
 ]
