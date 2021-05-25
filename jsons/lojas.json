@@ -1,4 +1,12 @@
 [
+      {
+        "id": "sweetwizard",
+        "nome": "Sweet Wizard",
+        "desc": "A junção de duas coisas mágicas: doces e o mundo de Harry Potter. ⚡️",
+        "logo": "https://i.imgur.com/UVsWA7G.jpg",
+        "categoria": "Alimentos",
+        "tipo": "Autônomo"
+    },
     {
         "id": "escolaead",
         "nome": "Escola EAD",
@@ -15,12 +23,11 @@
         "categoria": "Outros",
         "tipo": "Autônomo"
     },
-    {
-        "id": "sweetwizard",
-        "nome": "Sweet Wizard",
-        "desc": "A junção de duas coisas mágicas: doces e o mundo de Harry Potter. ⚡️",
-        "logo": "https://i.imgur.com/UVsWA7G.jpg",
-        "categoria": "Alimentos",
-        "tipo": "Autônomo"
+    {"id": "binho",
+     "nome": "Disk Lanches do Binho",
+     "desc": "Lanches de segunda à sábado",
+     "logo": "https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/57935920_1023569084499212_276704900132372480_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=f0M3S4KooEUAX8StSP3&_nc_ht=scontent-gru2-1.xx&oh=c82c6ab51875dd9a4d4e0ee06cd88547&oe=60D355FD",
+     "categoria": "Alimentação",
+     "tipo":"Empresa"
     }
 ]
