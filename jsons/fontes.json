@@ -1,0 +1,97 @@
+[
+    {
+        "id": 0,
+        "nome": "Fonte Dona Leopoldina",
+        "url": "https://i.imgur.com/JxTkPUk.jpg?1",
+        "desc": "A Fonte Dona Leopoldina foi captada em 1891. O projeto arquitetônico original é datado de 1912 com carimbo de \"Societé Anonyme des Aciéries D'Angelur\" \"Tilleur-Belgique\" e está arquivado no Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais. O prédio em que se encontra a fonte possui cúpula erguida por pilastras. Tanto o teto quanto as pilastras são decorados com pinturas. Arcos de ferro ligam as pilastras ao centro. Por ser todo aberto, tem-se acesso ao interior por qualquer um dos seis lados, descendo-se sete degraus. A Fonte Dona Leopoldina está protegida por uma grade de ferro. O chão é de cerâmica antiga e em estilo greco-romano. Padrões decorativos pintados ocorrem na parte inferior da cobertura do pavilhão, podem-se notar frisos ornamentais e de arabescos de folhas e flores estilizadas e entrelaçadas em ferro. O nome foi dado em homenagem à Dona Leopoldina, membro da antiga família Imperial Brasileira, filha do Imperador D. Pedro II.",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, fluoretada, litinada e carbogasosa na fonte. Atua estimulando a digestão. Normaliza as funções hepatobiliares. Indicada para problemas hepáticos, de vesícula biliar e alterações do intestino grosso.",
+        "icon": "https://i.imgur.com/JxTkPUk.jpg?1"
+    },
+    {
+        "id": 1,
+        "nome": "Fonte D. Isabel/Conde d'Eu",
+        "url": "https://i.imgur.com/kMT7pwL.jpg?1",
+        "desc": "A captação das fontes D. Isabel e Conde d'Eu data do ano de 1885. Somente em 1910 as duas fontes, ambas férreas, passaram a dividir o mesmo pavilhão. O projeto para construção do quiosque foi elaborado no Rio de Janeiro pelo arquiteto A. Telles em 1917. Uma cópia da proposta original está nos arquivos do Instituto Estadual do Patrimônio Histórico Artístico de Minas Gerais. Em estilo neoclássico reproduzindo um típico \"templo\", o pavilhão é todo aberto. O prédio possui teto acupulado, sustentado por pilastras. Dois pares de colunas demarcam o acesso frontal à escada de mármore. O piso é de azulejos decorados e antigos.\nUma história bastante interessante envolve a Princesa Isabel que, em 1868, junto com seu marido, o Conde d'Eu, foi atraída para a cidade de Caxambu, no Sul de Minas, pela enorme fama de suas águas minerais curativas. A Princesa Isabel queria ser curada de sua infertilidade. Como algumas das Fontes de Água Mineral são ricas em ferro, a princesa então curou sua anemia, conseguindo engravidar, e presenteou a cidade com a Igreja de Santa Isabel. Na verdade, as águas ferruginosas da fonte são indicadas para a anemia. Coincidência ou consequência, o fato é que a gravidez imediata contribuiu para a maior notoriedade das águas. Daí a origem do nome.",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, fluoretada, litinada, ferruginosa; carbogasosa na fonte. A Fonte Dona Isabel/Conde d'Eu é a mais indicada como tônico em geral com uma ação antianêmica. Indicada para casos de debilidade do organismo e astenia. Além de ferruginosa, possui radioatividade e outras riquezas como o magnésio, cálcio, flúor, sílica e estrôncio. É um verdadeiro alimento vivo.\n\nCONTÉM FLUORETO.",
+        "icon": "https://i.imgur.com/kMT7pwL.jpg?1"
+    },
+    {
+        "id": 2,
+        "nome": "Fonte Beleza",
+        "url": "https://i.imgur.com/dgMJ91R.jpg?1",
+        "desc": "A Fonte Beleza era conhecida anteriormente como Fonte Intermitente. Foi perfurada pelo Dr. Viotti em 1885. Como as fotes Duque de Saxe e Dona Leopoldina, seu estilo obedeceu ao empregado na época para as fontes francesas, e o projeto de 1913 é de origem belga. Trata-se de um pequeno prédio, possuindo teto acupulado pintado, erguido por finas pilastras de ferro. O acesso à fonte, que tem à sua volta azulejos decorados, dá-se por uma escada que possui nove degraus e corrimão de ferro. A Fonte Beleza, quando voltou a jorrar após algum tempo seca, causou grande surpresa e recebeu o então nome de Beleza, pela admiração que causava.",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, alcalino-terrosa magnesiana, fluoretada, litinada, ferruginosa; carbogasosa e hipotermal na fonte. A sua água multimineralizada equilibra o complexo eletrolítico do meio humoral do organismo. Age sobre a vida celular e sobre órgãos, estimulando e tonificando o organismo. Muito rica em minerais e fracamente radioativa, potencializada pelo gás carbônico, revigora a pele. Rica em magnésio, cálcio e flúor é indicada para auxiliar a formação dos ossos e da dentição. O magnésio atua também no sistema nervoso como calmante, combatendo o estresse. O alto teor de ferro auxilia no tratamento do aparelho digestivo.\n\nNÃO É ADEQUADA PARA LACTENTES E CRIANÇAS COM ATÉ 7 ANOS DE IDADE.\nSEU CONSUMO DIÁRIO NÃO É RECOMENDÁVEL: CONTÉM FLUORETO ACIMA DE 2mg/L.",
+        "icon": "https://i.imgur.com/dgMJ91R.jpg?1"
+    },
+    {
+        "id": 3,
+        "nome": "Fonte Duque de Saxe",
+        "url": "https://i.imgur.com/m9bolgY.png",
+        "desc": "Foi captada em 1891 sob a administração do Conselheiro Francisco de Paula Mayrink. De todos os quiosques metálicos do parque, é o que apresenta maior sobriedade de ornamentação e cores. Seu teto é todo pintado de rosa e é sustentado por pilastras. O piso é de cerâmica. As escadas que dão acesso à fonte possuem nove degraus cada uma e são cercadas por corrimãos de grade de ferro. Em volta da fonte, encontram-se azulejos decorados. O nome foi dado em homenagem ao marido de D. Leopoldina (genro do Imperador).",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, fluoretada, litinada; carbogasosa na fonte. Esta água contém enxofre dissolvido em pequenas quantidades, possuindo efeito medicinal comprovado. Ação colagoga, atuando no fígado e vesícula biliar, aumentando a produção da bile e a contração da vesícula; fluidifica a bile e dissolve cálculos de vias biliares; combate a estase intestinal, com efeito peristáltico e laxativo. Antissepsia e desintoxica o aparelho digestivo, melhorando a defesa do organismo. O gás sulfídrico disponível no inalador da fonte é indicado para o sistema respiratório em casos alérgicos e suas complicações.\n\nCONTÉM FLUORETO.",
+        "icon": "https://i.imgur.com/m9bolgY.png"
+    },
+    {
+        "id": 4,
+        "nome": "Fonte Dom Pedro",
+        "url": "https://i.imgur.com/cQoBAMG.jpg?1",
+        "desc": "É a fonte mais antiga e simbólica do Parque das Águas, possui interessante construção em estilo greco-romano, sendo um dos cartões-postais da cidade de Caxambu. A captação ocorreu em 1884, e o pavilhão atual, de inspiração neoclássica, foi construído no início dos anos 1960. O prédio em que ela se encontra possui cúpula apoiada por pilastras grossas, não tendo paredes. Em seu interior, encontra-se uma réplica da coroa que pertenceu a Dom Pedro.\nA Fonte Dom Pedro, em Caxambu/MG, está em uma pilastra de mármore encimada pela Coroa Imperial. A água sai de uma torneira de aço inox. O acesso à fonte se dá por escada. De teor radioativo e carbônico e altamente gasosa, é indicada como água de mesa por sua natureza digestiva.",
+        "propriedades": "Água mineral fluoretada e litinada; carbogasosa e radioativa na fonte. Reforça o estímulo da digestão, esvaziando rapidamente o estômago. Indicada para as dispepsias e digestões lentas e insuficientes. Estimulantes do apetite. Sua forte radioatividade purifica o sistema hepatorrenal, diluindo a bile e a urina, facilitando a expulsão de resíduoes da vesícula biliar e das vias urinárias.",
+        "icon": "https://i.imgur.com/cQoBAMG.jpg?1"
+    },
+    {
+        "id": 5,
+        "nome": "Fonte Viotti",
+        "url": "https://i.imgur.com/k2TmHts.jpg?1",
+        "desc": "São dois pavilhões distintos, junto ao portão de acesso à fábrica de água mineral (Viotti Menor) e próximo à piscina de águas minerais (Viotti). O antigo pavilhão acompanhava o estilo arquitetônico das outras fontes projetadas na Bélgica. A Fonte Viotti foi captada em 1885, com trabalhos posteriores de recaptação em 1913.\nAtualmente, existe uma construção simples, de planta retangular, constituída por uma cobertura em quatro águas de telhas cerâmicas com beiral, apoiada por uma parede cega e dois pilares laterais revestidos com pedra e vazada nas outras fachadas. O prédio dessa fonte é um dos mais âmplos, possui duas paredes revestidas com pedras e as outras com azulejos. O acesso às fontes é por uma escada de onze degraus, que é envolta por corrimão de ferro. Seu nome é uma homenagem ao Dr. Polycarpo Rodrigues Viotti, um médico ilustre que viveu e clinicou em Caxambu, onde exerceu durante 50 anos uma atividade profissional e pública de grande mérito.",
+        "propriedades": "Água mineral fluoretada e litinada; carbogasosa e radioativa na fonte. Possui efeito diurético e depurativo. Estimula a função renal deficiente. Sua forte radioatividade (radônio) aumenta a diurese e a eliminação de ácido úrico, dissolvendo os cálculos renais e biliares e as concreções artríticas. Normaliza a pressão arterial. Isso porque melhora o tônus do miocárdio e vascular, graças à benéfica influência sobre a fibra muscular. Nos hipertensos, nos quais costuma existir um fator espasmódico, a radioatividade faz cessar o espasmo, o que provoca o abaixamento da pressão arterial.",
+        "icon": "https://i.imgur.com/k2TmHts.jpg?1"
+    },
+    {
+        "id": 6,
+        "nome": "Fonte Venâncio",
+        "url": "https://i.imgur.com/jgXBDSy.jpg?1",
+        "desc": "A Fonte Venâncio foi captada no início de 1935 e término de 1939. Construído em estilo romântico, bastante usado nos anos de 1940, seu quiosque é mais fechado que os quiosques das outras fontes. A planta é semicircular e a fachada frontal apresenta escadaria de acesso à entrada em arco e cobertura em quatro águas. O guarda-corpo de alvenaria que circunda o local da fonte possui elementos vazados em meias-luas. O acabamento é em reboco pintado e cerâmicas vermelhas (piso). Seu nome é uma homenagem a um caxambuense que dedicou grande parte de sua vida ao Parque das Águas, o Sr. Venâncio da Rocha de Figueiredo, que também participou das captações das fontes de Lambari e Cambuquira.",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, alcalino-terrosa magnesiana, fluoretada, litinada; carbogasosa e hipotermal na fonte. Sua ação radioativa em conjunto com sua riqueza de magnésio a transforma em bom medicamento para o sistema cardiovascular e nervoso. O magnésio atua como miorelaxante neuromuscular, calmante do sistema nervoso e melhora transtornos do coração. A radioatividade (radônio) melhora o tônus do miocárdio e vascular graças à benéfica influência sobre a fibra muscular. A radioatividade faz cessar o espasmo vascular dos hipertensos, abaixando a pressão arterial.\n\nNÃO ADEQUADA PARA LACTENTES E CRIANÇAS COM ATÉ 7 ANOS DE IDADE.\nO CONSUMO DIÁRIO NÃO É RECOMENDÁVEL: CONTÉM FLUORETO ACIMA DE 2mg/L.",
+        "icon": "https://i.imgur.com/jgXBDSy.jpg?1"
+    },
+       {
+        "id": 7,
+        "nome": "Fonte Ernestina Guedes",
+        "url": "https://i.imgur.com/Azqm6jJ.jpg?1",
+        "desc": "A Fonte Ernestina Guedes foi captada em 1950. Seu prédio, de construção simples, possui laje apoiada por pilastras redondas, chão de ardósia e três bancos de espera. A fonte é localizada um pouco abaixo do nível da rua e está em um monumento estrelado onde jorra a água. O acesso se dá por duas escadas que possuem dezessete degraus e corrimão de grade. Seu nome foi dado em homenagem à família Guedes, que sempre participou do desenvolvimento do município de Caxambu/MG.",
+        "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, fluoretada, litinada, ferruginosa e carbogasosa na fonte. Seu uso pode ser feito por via oral ou como banhos e compressas. É indicada para affecções cutâneas. Os efeitos das radiações sobre a pele são consideráveis. \n\nNÃO ADEQUADA PARA LACTENTES E CRIANÇAS COM ATÉ 7 ANOS DE IDADE.\nO CONSUMO DIÁRIO NÃO É RECOMENDÁVEL: CONTÉM FLUORETO ACIMA DE 2mg/L.",
+        "icon": "https://i.imgur.com/Azqm6jJ.jpg?1"
+    },
+    {
+        "id": 8,
+        "nome": "Fonte Mayrink I",
+        "url": "https://i.imgur.com/JSwEkqz.jpg?1",
+        "desc": "As fontes Mayrink estão abrigadas em um prédio que é protegido por uma balaustrada e possui três janelas em arco. As paredes, no alto, têm decoração de volutas. Há uma sala de espera para 30 pessoas, onde o piso é de azulejos antigos e decorados. O chafariz, cujo acesso é feito por escadas e vias laterais, possui desenhos de volutas e conchas. A água mineral é carbogasosa e radioativa e é indicada para a garganta e como colírio. A escada que dá acesso às duas fontes possui 11 degraus e balaustrada de ferro. As fontes saem de um cano e caem sobre uma pequena pia quadrada. Essas fontes foram captadas na última década do século XIX. O pavilhão quadrado baseia-se na arquitetura do Arco do Triunfo em Paris. Seu nome é uma homenagem a Francisco de Paula Mayrink que adquiriu a Empresa das Águas de Caxambu em 24 de maio de 1890. Deputado de grande influência, foi um dos responsáveis pela chegada da estrada de ferro a Caxambu e trabalhou pela emancipação político-administrativa da cidade.",
+        "propriedades": "Água mineral fluoretada e litinada; radioativa, carbogasosa e hipotermal na fonte. As águas da Fonte Mayrink I são indicadas para tratamentos da garganta.",
+        "icon": "https://i.imgur.com/JSwEkqz.jpg?1"
+    },
+      {
+        "id": 9,
+        "nome": "Fonte Mayrink II",
+        "url": "https://i.imgur.com/UgFvK8Z.jpg",
+        "desc": "As fontes Mayrink estão abrigadas em um prédio que é protegido por uma balaustrada e possui três janelas em arco. As paredes, no alto, têm decoração de volutas. Há uma sala de espera para 30 pessoas, onde o piso é de azulejos antigos e decorados. O chafariz, cujo acesso é feito por escadas e vias laterais, possui desenhos de volutas e conchas. A água mineral é carbogasosa e radioativa e é indicada para a garganta e como colírio. A escada que dá acesso às duas fontes possui 11 degraus e balaustrada de ferro. As fontes saem de um cano e caem sobre uma pequena pia quadrada. Essas fontes foram captadas na última década do século XIX. O pavilhão quadrado baseia-se na arquitetura do Arco do Triunfo em Paris. Seu nome é uma homenagem a Francisco de Paula Mayrink que adquiriu a Empresa das Águas de Caxambu em 24 de maio de 1890. Deputado de grande influência, foi um dos responsáveis pela chegada da estrada de ferro a Caxambu e trabalhou pela emancipação político-administrativa da cidade.",
+        "propriedades": "Água mineral fluoretada e litinada; radioativa, carbogasosa e hipotermal na fonte. As águas da Fonte Mayrink II são indicadas para tratamento dos olhos (como colírio).",
+        "icon": "https://i.imgur.com/UgFvK8Z.jpg"
+    },  {
+        "id": 10,
+        "nome": "Fonte Mayrink III",
+        "url": "https://i.imgur.com/JSwEkqz.jpg?1",
+        "desc": "As fontes Mayrink estão abrigadas em um prédio que é protegido por uma balaustrada e possui três janelas em arco. As paredes, no alto, têm decoração de volutas. Há uma sala de espera para 30 pessoas, onde o piso é de azulejos antigos e decorados. O chafariz, cujo acesso é feito por escadas e vias laterais, possui desenhos de volutas e conchas. A água mineral é carbogasosa e radioativa e é indicada para a garganta e como colírio. A escada que dá acesso às duas fontes possui 11 degraus e balaustrada de ferro. As fontes saem de um cano e caem sobre uma pequena pia quadrada. Essas fontes foram captadas na última década do século XIX. O pavilhão quadrado baseia-se na arquitetura do Arco do Triunfo em Paris. Seu nome é uma homenagem a Francisco de Paula Mayrink que adquiriu a Empresa das Águas de Caxambu em 24 de maio de 1890. Deputado de grande influência, foi um dos responsáveis pela chegada da estrada de ferro a Caxambu e trabalhou pela emancipação político-administrativa da cidade.",
+        "propriedades": "Água mineral fluoretada e radioativa na fonte. A Fonte Mayrink III é a única água não gasosa do parque.",
+        "icon": "https://i.imgur.com/F4MFeKf.jpg"
+    },
+     {
+        "id": 11,
+        "nome": "Fonte Viotti Menor (externa)",
+        "url": "https://i.imgur.com/k2TmHts.jpg?1",
+        "desc": "Fontanário externo para atendimento à população. A água provém da Fonte Viotti, no interior do Parque.",
+        "propriedades": "Água mineral fluoretada e litinada; carbogasosa e radioativa na fonte. Possui efeito diurético e depurativo. Estimula a função renal deficiente. Sua forte radioatividade (radônio) aumenta a diurese e a eliminação de ácido úrico, dissolvendo os cálculos renais e biliares e as concreções artríticas. Normaliza a pressão arterial. Isso porque melhora o tônus do miocárdio e vascular, graças à benéfica influência sobre a fibra muscular. Nos hipertensos, nos quais costuma existir um fator espasmódico, a radioatividade faz cessar o espasmo, o que provoca o abaixamento da pressão arterial.",
+        "icon": "https://i.imgur.com/a1FNE0I.png?1"
+    }
+]
