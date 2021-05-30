@@ -56,11 +56,13 @@
      "tipo":"Autônomo"
     },
     {
-     "id": "cmontoriatelie",
-     "nome": "Camila Montori Ateliê",
-     "desc": "Um ATELIÊ feito com muito amor, carinho e dedicaçao! ❤\nCostura sob medida, bordados, crochê, tricô e afins!",
-     "logo": "https://scontent-gru2-1.cdninstagram.com/v/t51.2885-19/s320x320/160652570_3993490507380986_1866415420158884814_n.jpg?tp=1&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_ohc=xV367qljrLQAX-k0dIu&edm=ABfd0MgBAAAA&ccb=7-4&oh=0af6527f5a70826c1f7867dfc3881ca8&oe=60B3FFDD&_nc_sid=7bff83",
-     "categoria": "Outros",
-     "tipo": "Autônomo"
-    }
+     "id":"biatrindadebolos",
+     "nome":"Bia Trindade Bolos",
+     "desc":"🍭🍬🎂🍰\nCaxambu/MG\nConsultar tabela de preços pelo direct ou WhatsApp.
+(35) 992448338",
+     "logo":"https://scontent-gru1-2.cdninstagram.com/v/t51.2885-19/s150x150/171546403_471990650520918_5990326255239067538_n.jpg?tp=1&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_ohc=LGwnxn7npmQAX8fR8Dz&edm=ABfd0MgBAAAA&ccb=7-4&oh=b618d6ec1b1ae16e59ffa5af6a3c3485&oe=60BA184D&_nc_sid=7bff83",
+     "categoria":"Alimentação",
+     "tipo":"Empresa"
+      }
+    
 ]
