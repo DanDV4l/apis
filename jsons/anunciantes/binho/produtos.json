@@ -1,101 +1,23 @@
 [
     {
         "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
+        "nome":"Dobby, o elfo livre",
+        "desc":"O delicioso sabor de josefina.",
         "img":"",
-        "valor": 0
+        "valor": 5.00
     },
     {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
+        "id":"1",
+        "nome":"Sirius Black",
+        "desc":"O tradicional, clássico e saboroso brigadeiro.",
         "img":"",
-        "valor": 0
+        "valor": 5.00
     },
     {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
+        "id":"2",
+        "nome":"Edwiges",
+        "desc":"Diferente, inusitado, inovador, curioso, mágico, saboroso e maravilhoso brigadeiro de limão",
         "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
-    {
-        "id":"0",
-        "nome":"Produto teste",
-        "desc":"testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste",
-        "img":"",
-        "valor": 0
-    },
- 
+        "valor": 5.00
+    }
 ]
