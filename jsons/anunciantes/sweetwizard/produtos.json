@@ -1,9 +1,23 @@
 [
     {
-        "id":"",
-        "nome":"",
-        "desc":"",
+        "id":"0",
+        "nome":"Dobby, o elfo livre",
+        "desc":"O delicioso sabor de josefina.",
         "img":"",
-        "valor": 0
+        "valor": 5.00
+    },
+    {
+        "id":"1",
+        "nome":"Sirius Black",
+        "desc":"O tradicional, clássico e saboroso brigadeiro.",
+        "img":"",
+        "valor": 5.00
+    },
+    {
+        "id":"2",
+        "nome":"Edwiges",
+        "desc":"Diferente, inusitado, inovador, curioso, mágico, saboroso e maravilhoso brigadeiro de limão",
+        "img":"",
+        "valor": 5.00
     }
 ]
