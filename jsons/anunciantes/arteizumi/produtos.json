@@ -1,10 +1,60 @@
 [
     {
         "id":"0",
-        "nome":"TESTE",
-        "desc":"TESTESTESASDETSTESTESTESTESTETESTESTESTESTE.",
-        "img":"",
+        "nome":"Placa decorativa formato tábua de carne/frios",
+        "desc":"Placa decorativa preta, com detalhes em branco e rosa. No formato de tábua de carnes/frios.\n\"O MELHOR TEMPERO É O AMOR\"",
+        "img":"https://i.imgur.com/JCCLmdw.png",
+        "valor": 25.00
+    },
+    {
+        "id":"1",
+        "nome":"Placa decorativa formato retangular",
+        "desc":"Placa decorativa preta, com detalhes em várias cores. Formato retangular.\n\"VOCÊ SERÁ JULGADO DE QUALQUER FORMA, PORTANTO SEJA VOCÊ MESMO.\"",
+        "img":"https://i.imgur.com/6ATKMHV.png",
+        "valor": 25.00
+    },
+     {
+        "id":"2",
+        "nome":"Placa decorativa formato circular",
+        "desc":"Placa decorativa preta, com detalhes em várias cores. Formato circular.\n\"QUEM SEMEIA GRATIDÃO COLHE FELICIDADE.\"",
+        "img":"https://i.imgur.com/37S29CR.png",
+        "valor": 25.00
+    },
+    {
+        "id":"3",
+        "nome":"Mandala brilhante/prateada",
+        "desc":"Mandala preenchida com blocos prateados e espelho central",
+        "img":"https://i.imgur.com/64pGnuK.png",
+        "valor": 25.00
+    },
+    {
+        "id":"4",
+        "nome":"Placa decorativa formato tábua de carne/frios",
+        "desc":"Placa decorativa preta, com detalhes em branco e rosa. No formato de tábua de carnes/frios.\n\"O MELHOR TEMPERO É O AMOR\"",
+        "img":"https://i.imgur.com/JCCLmdw.png",
+        "valor": 25.00
+    },
+    {
+        "id":"5",
+        "nome":"Placa decorativa formato retangular",
+        "desc":"Placa decorativa preta, com detalhes em várias cores. Formato retangular.\n\"VOCÊ SERÁ JULGADO DE QUALQUER FORMA, PORTANTO SEJA VOCÊ MESMO.\"",
+        "img":"https://i.imgur.com/6ATKMHV.png",
+        "valor": 25.00
+    },
+     {
+        "id":"6",
+        "nome":"Placa decorativa formato circular",
+        "desc":"Placa decorativa preta, com detalhes em várias cores. Formato circular.\n\"QUEM SEMEIA GRATIDÃO COLHE FELICIDADE.\"",
+        "img":"https://i.imgur.com/37S29CR.png",
+        "valor": 25.00
+    },
+    {
+        "id":"7",
+        "nome":"Mandala brilhante/prateada",
+        "desc":"Mandala preenchida com blocos prateados e espelho central",
+        "img":"https://i.imgur.com/64pGnuK.png",
         "valor": 25.00
     }
+    
  
 ]
