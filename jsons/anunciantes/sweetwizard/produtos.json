@@ -1,23 +1,30 @@
 [
     {
         "id":"0",
-        "nome":"Dobby, o elfo livre",
-        "desc":"O delicioso sabor de josefina.",
-        "img":"https://i.imgur.com/uDpT0gv.png",
+        "nome":"Bicuço, hipogrifo",
+        "desc":"Mais conhecido como Beijinho pelos trouxas\nEm homenagem a Bicuço, hipogrifo leal e afetuoso, pertencente a Rúbeo Hagrid, Sirius Black e Harry Potter",
+        "img":"https://i.imgur.com/Umr1rTe.png",
         "valor": 5.00
     },
     {
         "id":"1",
-        "nome":"Sirius Black",
-        "desc":"O tradicional, clássico e saboroso brigadeiro.",
-        "img":"https://i.imgur.com/uDpT0gv.png",
+        "nome":"Dobby, o elfo livre",
+        "desc":"O delicioso sabor de josefina.",
+        "img":"https://i.imgur.com/c65CFzY.png",
         "valor": 5.00
     },
     {
         "id":"2",
-        "nome":"Edwiges",
-        "desc":"Diferente, inusitado, inovador, curioso, mágico, saboroso e maravilhoso brigadeiro de limão",
+        "nome":"Sirius Black",
+        "desc":"In memoriam a Sirius Black, padrinho de Harry Potter.\nEsse doce, assim como Sirius, é querido por todos aqueles que o conhecem verdadeiramente! Já já vocês poderão experimentar essa maravilha tradicional!!!",
         "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 5.00
+    },
+    {
+        "id":"3",
+        "nome":"Edwiges",
+        "desc":"Em homenagem a nossa querida Edwiges, a corajosa coruja de Harry Potter.\nEsse docinho, assim como Edwiges, pode te acompanhar nos momentos difíceis, até mesmo nas férias na casa dos Dursley",
+        "img":"https://i.imgur.com/LnzDOh1.png",
         "valor": 5.00
     }
 ]
