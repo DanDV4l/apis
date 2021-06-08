@@ -26,7 +26,7 @@
     {
         "id": 3,
         "nome": "Fonte Duque de Saxe",
-        "url": "https://i.imgur.com/m9bolgY.png",
+        "url": "https://i.imgur.com/PCl1l4Q.jpg",
         "desc": "Foi captada em 1891 sob a administração do Conselheiro Francisco de Paula Mayrink. De todos os quiosques metálicos do parque, é o que apresenta maior sobriedade de ornamentação e cores. Seu teto é todo pintado de rosa e é sustentado por pilastras. O piso é de cerâmica. As escadas que dão acesso à fonte possuem nove degraus cada uma e são cercadas por corrimãos de grade de ferro. Em volta da fonte, encontram-se azulejos decorados. O nome foi dado em homenagem ao marido de D. Leopoldina (genro do Imperador).",
         "propriedades": "Água mineral alcalino-bicarbonatada, alcalino-terrosa cálcica, fluoretada, litinada; carbogasosa na fonte. Esta água contém enxofre dissolvido em pequenas quantidades, possuindo efeito medicinal comprovado. Ação colagoga, atuando no fígado e vesícula biliar, aumentando a produção da bile e a contração da vesícula; fluidifica a bile e dissolve cálculos de vias biliares; combate a estase intestinal, com efeito peristáltico e laxativo. Antissepsia e desintoxica o aparelho digestivo, melhorando a defesa do organismo. O gás sulfídrico disponível no inalador da fonte é indicado para o sistema respiratório em casos alérgicos e suas complicações.\n\nCONTÉM FLUORETO.",
         "icon": "https://i.imgur.com/m9bolgY.png"
@@ -74,14 +74,14 @@
       {
         "id": 9,
         "nome": "Fonte Mayrink II",
-        "url": "https://i.imgur.com/UgFvK8Z.jpg",
+        "url": "https://i.imgur.com/PKex8oT.jpg",
         "desc": "As fontes Mayrink estão abrigadas em um prédio que é protegido por uma balaustrada e possui três janelas em arco. As paredes, no alto, têm decoração de volutas. Há uma sala de espera para 30 pessoas, onde o piso é de azulejos antigos e decorados. O chafariz, cujo acesso é feito por escadas e vias laterais, possui desenhos de volutas e conchas. A água mineral é carbogasosa e radioativa e é indicada para a garganta e como colírio. A escada que dá acesso às duas fontes possui 11 degraus e balaustrada de ferro. As fontes saem de um cano e caem sobre uma pequena pia quadrada. Essas fontes foram captadas na última década do século XIX. O pavilhão quadrado baseia-se na arquitetura do Arco do Triunfo em Paris. Seu nome é uma homenagem a Francisco de Paula Mayrink que adquiriu a Empresa das Águas de Caxambu em 24 de maio de 1890. Deputado de grande influência, foi um dos responsáveis pela chegada da estrada de ferro a Caxambu e trabalhou pela emancipação político-administrativa da cidade.",
         "propriedades": "Água mineral fluoretada e litinada; radioativa, carbogasosa e hipotermal na fonte. As águas da Fonte Mayrink II são indicadas para tratamento dos olhos (como colírio).",
         "icon": "https://i.imgur.com/UgFvK8Z.jpg"
     },  {
         "id": 10,
         "nome": "Fonte Mayrink III",
-        "url": "https://i.imgur.com/JSwEkqz.jpg?1",
+        "url": "https://i.imgur.com/hEiduR8.jpg",
         "desc": "As fontes Mayrink estão abrigadas em um prédio que é protegido por uma balaustrada e possui três janelas em arco. As paredes, no alto, têm decoração de volutas. Há uma sala de espera para 30 pessoas, onde o piso é de azulejos antigos e decorados. O chafariz, cujo acesso é feito por escadas e vias laterais, possui desenhos de volutas e conchas. A água mineral é carbogasosa e radioativa e é indicada para a garganta e como colírio. A escada que dá acesso às duas fontes possui 11 degraus e balaustrada de ferro. As fontes saem de um cano e caem sobre uma pequena pia quadrada. Essas fontes foram captadas na última década do século XIX. O pavilhão quadrado baseia-se na arquitetura do Arco do Triunfo em Paris. Seu nome é uma homenagem a Francisco de Paula Mayrink que adquiriu a Empresa das Águas de Caxambu em 24 de maio de 1890. Deputado de grande influência, foi um dos responsáveis pela chegada da estrada de ferro a Caxambu e trabalhou pela emancipação político-administrativa da cidade.",
         "propriedades": "Água mineral fluoretada e radioativa na fonte. A Fonte Mayrink III é a única água não gasosa do parque.",
         "icon": "https://i.imgur.com/F4MFeKf.jpg"
