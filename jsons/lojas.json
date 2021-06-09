@@ -6,6 +6,21 @@
         "logo": "https://i.imgur.com/UVsWA7G.jpg",
         "categoria": "Alimentação",
         "tipo": "Autônomo"
+    },  {
+     "id": "binho",
+     "nome": "Disk Lanche do Binho",
+     "desc": "O pioneiro de Caxambu!\nO melhor lanche da cidade, com qualidade, bom atendimento, serviço de entrega!\nAceitamos cartões!\nHorário de funcionamento: de segunda a sábado, das 19h às 00h.",
+     "logo": "https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/57935920_1023569084499212_276704900132372480_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=f0M3S4KooEUAX8StSP3&_nc_ht=scontent-gru2-1.xx&oh=c82c6ab51875dd9a4d4e0ee06cd88547&oe=60D355FD",
+     "categoria": "Alimentação",
+     "tipo":"Empresa"
+    },
+       {
+        "id": "arteizumi",
+        "nome": "Arte Izumi",
+        "desc": "▪️Aceitamos encomendas 📦\n▪️Todos os sábados das 17:00 às 22:00 na Feira Noturna Arte & Gula na praça 16 de setembro\n▪️Caxambu-MG\n▪️Aceitamos cartões",
+        "logo": "https://i.imgur.com/rwHDjEL.jpg",
+        "categoria": "Outros",
+        "tipo": "Autônomo"
     },
     {
         "id": "escolaead",
@@ -16,28 +31,12 @@
         "tipo": "Empresa"
     },
     {
-        "id": "arteizumi",
-        "nome": "Arte Izumi",
-        "desc": "▪️Aceitamos encomendas 📦\n▪️Todos os sábados das 17:00 às 22:00 na Feira Noturna Arte & Gula na praça 16 de setembro\n▪️Caxambu-MG\n▪️Aceitamos cartões",
-        "logo": "https://i.imgur.com/rwHDjEL.jpg",
-        "categoria": "Outros",
-        "tipo": "Autônomo"
-    },
-    {
         "id": "mundotshirtbq",
         "nome": "Mundo T-Shirt BQ",
         "desc": "Loja de roupas femininas em Barbacena/MG\nEntregamos para todo o Brasil nos tamanhos P ao GG.",
         "logo": "https://i.imgur.com/if6mbAX.jpg",
         "categoria": "Vestuário",
         "tipo":"Empresa"
-    },
-    {
-     "id": "binho",
-     "nome": "Disk Lanche do Binho",
-     "desc": "Lanches de segunda à sábado.",
-     "logo": "https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/57935920_1023569084499212_276704900132372480_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=f0M3S4KooEUAX8StSP3&_nc_ht=scontent-gru2-1.xx&oh=c82c6ab51875dd9a4d4e0ee06cd88547&oe=60D355FD",
-     "categoria": "Alimentação",
-     "tipo":"Empresa"
     },
     {
      "id": "deliciasgabi",
