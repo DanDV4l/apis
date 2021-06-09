@@ -1,23 +1,72 @@
 [
     {
         "id":"0",
-        "nome":"Dobby, o elfo livre",
-        "desc":"O delicioso sabor de josefina.",
+        "nome":"X-Frango",
+        "desc":"Frango, milho e queijo",
         "img":"https://i.imgur.com/uDpT0gv.png",
-        "valor": 5.00
+        "valor": 15.00
     },
     {
         "id":"1",
-        "nome":"Sirius Black",
-        "desc":"O tradicional, clássico e saboroso brigadeiro.",
+        "nome":"Frango Egg Salada",
+        "desc":"Maionese, ervilha, alface, milho, frango, queijo, ovo",
         "img":"https://i.imgur.com/uDpT0gv.png",
-        "valor": 5.00
+        "valor": 20.00
     },
     {
         "id":"2",
-        "nome":"Edwiges",
-        "desc":"Diferente, inusitado, inovador, curioso, mágico, saboroso e maravilhoso brigadeiro de limão",
+        "nome":"Frango Egg Bacon",
+        "desc":"Maionese, tomate, milho, frango, queijo, ovo, bacon",
         "img":"https://i.imgur.com/uDpT0gv.png",
-        "valor": 5.00
+        "valor": 17.00
+    },
+    {
+        "id":"3",
+        "nome":"X-Bacon",
+        "desc":"Maionese, tomate, queijo, hambúrguer, bacon",
+        "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 18.00
+    },
+    {
+        "id":"4",
+        "nome":"Salada Egg Bacon",
+        "desc":"Maionese, tomate, alface, ovo, hambúrguer, queijo, bacon",
+        "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 23.00
+    },
+    {
+        "id":"5",
+        "nome":"Salada Egg Bacon",
+        "desc":"Maionese, tomate, alface, ovo, hambúrguer, queijo, bacon",
+        "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 23.00
+    },
+    {
+        "id":"6",
+        "nome":"Egg Bacon Turbinado",
+        "desc":"Maionese, tomate, presunto, queijo, 2 ovo, 2 hambúrgueres, bacon",
+        "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 25.00
+    },
+    {
+        "id":"7",
+        "nome":"X-Tudo",
+        "desc":"Maionese, tomate, milho, ervilha, alface, ovo, presunto, queijo, hambúrguer, bacon, frango",
+        "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 25.00
+    },
+    {
+        "id":"8",
+        "nome":"X-Bacon Especial",
+        "desc":"Maionese, tomate, cebola, catupiry, bacon, hambúrguer 120g, batata palha, molho barbecue",
+        "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 24.00
+    },
+    {
+        "id":"9",
+        "nome":"Da casa",
+        "desc":"Maionese, tomate, alface, cebola, catupiry, hambúrguer 120g, molho barbecue",
+        "img":"https://i.imgur.com/uDpT0gv.png",
+        "valor": 26.00
     }
 ]
