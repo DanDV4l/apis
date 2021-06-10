@@ -17,7 +17,7 @@
         "id":"2",
         "nome":"Frango Egg Bacon",
         "desc":"Maionese, tomate, milho, frango, queijo, ovo, bacon",
-        "img":"https://instadelivery-public.nyc3.digitaloceanspaces.com/itens/6F9Rgh0Vgspr1hW5HsruBs4z5Vw5IA8pTFDNszKA.jpeg",
+        "img":"https://i.imgur.com/1oDJgZR.png",
         "valor": 17.00
     },
     {
@@ -31,7 +31,7 @@
         "id":"4",
         "nome":"Salada Egg Bacon",
         "desc":"Maionese, tomate, alface, ovo, hambúrguer, queijo, bacon",
-        "img":"https://i.imgur.com/uDpT0gv.png",
+        "img":"https://i.imgur.com/1oDJgZR.png",
         "valor": 23.00
     },
     {
@@ -52,14 +52,14 @@
         "id":"7",
         "nome":"X-Tudo",
         "desc":"Maionese, tomate, milho, ervilha, alface, ovo, presunto, queijo, hambúrguer, bacon, frango",
-        "img":"https://www.receiteria.com.br/wp-content/uploads/receitas-de-x-tudo.jpg",
+        "img":"https://i.imgur.com/44iwvri.png",
         "valor": 25.00
     },
     {
         "id":"8",
         "nome":"X-Bacon Especial",
         "desc":"Maionese, tomate, cebola, catupiry, bacon, hambúrguer 120g, batata palha, molho barbecue",
-        "img":"https://www.receiteria.com.br/wp-content/uploads/receitas-de-x-tudo.jpg",
+        "img":"https://i.imgur.com/mngghzm.png",
         "valor": 24.00
     },
     {
