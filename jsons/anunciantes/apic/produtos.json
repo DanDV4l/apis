@@ -1,1 +1,9 @@
-
+[
+    {
+        "id":"0",
+        "nome":"Agendar Consulta Médica",
+        "desc":"Saúde é coisa séria. Agende uma consulta conosco e saiba mais sobre nossos serviços",
+        "img":"https://i.imgur.com/EsdAtV6.png",
+        "valor": 235.00
+    }
+]
