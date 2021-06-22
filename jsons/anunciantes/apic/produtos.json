@@ -2,7 +2,7 @@
     {
         "id":"0",
         "nome":"Agendar Consulta Médica",
-        "desc":"Saúde é coisa séria. Agende uma consulta conosco e saiba mais sobre nossos serviços",
+        "desc":"Tratamentos de:\n hêrnia de disco\n protusão discal\n escoliose\n estenose lompar\n lombalgia(dor lombar)\n cervicalgia(dor no pescoço)\n dor ciática\n dor torácica\n dor de cabeça\n dor nas articulações\n lesões musculares\n restrições de movimentos\n má posturas e outros.",
         "img":"https://i.imgur.com/EsdAtV6.png",
         "valor": 235.00
     }
