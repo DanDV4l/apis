@@ -6,7 +6,16 @@
         "logo": "https://i.imgur.com/UVsWA7G.jpg",
         "categoria": "Alimentação",
         "tipo": "Autônomo"
-    },  {
+    },
+     {
+           "id":"apic",
+           "nome":"APIC Clínica da Coluna",
+           "desc":"Dr. Arnaldo Esteves\nCRM - 75888 - MG\nTratamentos de hêrnia de disco, protusão discal, escoliose, estenose lompar, lombalgia(dor lombar), cervicalgia(dor no pescoço), dor ciática, dor torácica, dor de cabeça, dor nas articulações, lesões musculares, restrições de movimentos, má posturas e outros.",
+           "logo":"https://i.imgur.com/zPjYjsS.png",
+           "categoria":"Saúde",
+           "tipo":"Empresa"
+     },      
+      {
      "id": "binho",
      "nome": "Disk Lanche do Binho",
      "desc": "O pioneiro de Caxambu!\nO melhor lanche da cidade, com qualidade, bom atendimento, serviço de entrega!\nAceitamos cartões!\nHorário de funcionamento: de segunda a sábado, das 19h às 00h.",
