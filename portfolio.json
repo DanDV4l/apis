@@ -1,6 +1,6 @@
 [
     {
-        "nome":"WW:ITdev", 
+        "nome":"WW:IT dev", 
         "descricao":"Website criado com o Flutter Web com a intenção de demonstrar minhas habilidades como desenvolvedor Flutter. Possui as funções de permitir que o usuário solicite um atendimento, mande uma mensagem contendo uma crítica/sugestão/solicitação de informações, se informe sobre os serviços oferecidos e acompanhe o andamento de seu atendimento(recurso em construcao). Possui um aplicativo de gerenciamento chamado WW:IT Console, que exibe e permite gerenciar as solicitações e mensagens de contato recebidas.",
         "imgUrl":"https://i.imgur.com/sDp1OOk.png", 
         "repositorio":"https://github.com/DanDV4l/wwit"
@@ -12,7 +12,7 @@
         "repositorio":""
     },
     {
-        "nome":"Projeto Feirinha (PROTÓTIPO)", 
+        "nome":"(PROTÓTIPO) Projeto Feirinha", 
         "descricao":"Este projeto foi criado com o intuito de ser uma demonstração do novo site do Projeto Feirinha (UFJF), é apenas uma demonstração do novo layout e o projeto não chegou a se concretizar.",
         "imgUrl":"https://i.imgur.com/QeoYmTq.png", 
         "repositorio":"https://github.com/DanDV4l/projetofeirinha"
