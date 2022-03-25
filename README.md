@@ -1,2 +1,2 @@
 # My API repository
-This is my API from the website caxambu.epizy.com
+This repository contains my JSON files used in my applications
