@@ -19,8 +19,14 @@
     },
     {
         "nome":".GUIA",
-        "descricao":"Aplicativo mobile criado para ser funcionar como guia turístico e comercial de Caxambu além de servir como loja virtual/delivery. O projeto funcionou utilizando APIs armazenadas no Github durante o estágio inicial, mas o seu desenvolvimento foi descontinuado por solicitação do cliente.",
+        "descricao":"Aplicativo mobile criado para ser funcionar como guia turístico e comercial de Caxambu, além de servir como loja virtual/delivery e diariamente exibir notícias relevantes sobre Caxambu e região. O projeto funcionou utilizando APIs armazenadas no Github durante o estágio inicial, mas o seu desenvolvimento foi descontinuado por solicitação do cliente.",
         "imgUrl":"https://i.imgur.com/IgMdSTP.png?1",
         "repositorio":"https://github.com/DanDV4l/._guia"
-    }
+    },
+     {
+        "nome":"ZAP me",
+        "descricao":"Durante o período de aulas remotas no ano de 2021, atuei como professor da rede pública e havia a necessidade de chamar os alunos através do WhatsApp para cobrar trabalhos ou enviar links de salas no Google Meet. Para não haver a necessidade de adicionar novos contatos, foi desenvolvido o ZAPme. Ele permite que você digite o número do contato e o chame diretamente no WhatsApp e também possui a funcionalidade de armazenar histórico de números chamados através dele.",
+        "imgUrl":"https://i.imgur.com/bEhgN1c.png?1",
+        "repositorio":"https://github.com/DanDV4l/zapme"
+    }    
 ]
