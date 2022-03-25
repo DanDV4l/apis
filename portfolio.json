@@ -1,7 +1,7 @@
 [
     {
         "nome":"WW:IT dev", 
-        "descricao":"Website criado com o Flutter Web com a intenção de demonstrar minhas habilidades como desenvolvedor Flutter. Possui as funções de permitir que o usuário solicite um atendimento, mande uma mensagem contendo uma crítica/sugestão/solicitação de informações, se informe sobre os serviços oferecidos e acompanhe o andamento de seu atendimento(recurso em construcao). Possui um aplicativo de gerenciamento chamado WW:IT Console, que exibe e permite gerenciar as solicitações e mensagens de contato recebidas.",
+        "descricao":"Website criado com o Flutter Web com a intenção de demonstrar minhas habilidades como desenvolvedor Flutter. Possui as funções de permitir que o usuário solicite um atendimento, mande uma mensagem contendo uma crítica/sugestão/solicitação de informações, se informe sobre os serviços oferecidos e acompanhe o andamento de seu atendimento(recurso em construção). Possui um aplicativo de gerenciamento chamado WW:IT Console, que exibe e permite gerenciar as solicitações de atendimento e mensagens de contato recebidas.",
         "imgUrl":"https://i.imgur.com/sDp1OOk.png", 
         "repositorio":"https://github.com/DanDV4l/wwit"
     },
