@@ -28,5 +28,9 @@
         "descricao":"Durante o período de aulas remotas no ano de 2021, atuei como professor da rede pública e havia a necessidade de chamar os alunos através do WhatsApp para cobrar trabalhos ou enviar links de salas no Google Meet. Para não haver a necessidade de adicionar novos contatos, foi desenvolvido o ZAPme. Ele permite que você digite o número do contato e o chame diretamente no WhatsApp e também possui a funcionalidade de armazenar histórico de números chamados através dele.",
         "imgUrl":"https://i.imgur.com/bEhgN1c.png?1",
         "repositorio":"https://github.com/DanDV4l/zapme"
-    }    
+    },
+    {"nome":"Movies", 
+        "descricao":"O app Movies foi criado para demonstrar minha capacidade em cumprir o desafio técnico proposto pela Mobile2You. O desafio era replicar o layout de uma tela do app TodoMovies4 utilizando as APIs disponibilizadas pelo site \"The Movie Database\".",
+        "imgUrl":"https://user-images.githubusercontent.com/84111045/161465312-547c7ce6-1db2-48bd-892c-a9ea197ae06a.png", 
+        "repositorio":"https://github.com/DanDV4l/Movies-Mobile2You/tree/DanDV4l-Movies-New_resources"}
 ]
