@@ -7,7 +7,7 @@
     },
     {
         "nome":"Conheça Caxambu", 
-        "descricao":"Serviço criado com o Flutter Web com a função de ser um guia para os turistas que visitam Caxambu, o Parque das Águas e o comércio local. Atualmente em fase de desenvolvimento, é uma página responsiva (que se adapta a diferentes tamanhos de telas) e a previsão é de que esteja concluída e publicada na segunda quinzena de setembro.",
+        "descricao":"Serviço criado com o Flutter Web com a função de ser um guia para os turistas que visitam Caxambu, o Parque das Águas e o comércio local. Atualmente em fase de desenvolvimento e é uma página responsiva (que se adapta a diferentes tamanhos de telas).",
         "imgUrl":"https://i.imgur.com/VlO4LDX.png", 
         "repositorio":""
     },
